@@ -1,0 +1,7 @@
+#nokey {
+    top: 0;
+    left: 0;
+    width: auto;
+    position: absolute;
+    pointer-events: none;
+}
